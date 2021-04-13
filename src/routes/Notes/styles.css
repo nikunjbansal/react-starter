@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: space-between;
+  flex: 1;
+  height: 100%;
+}
+
+.Table {
+  margin-top: 24px;
+}
+
+.LeftFLoat {
+  float: left;
+}
+
+.RightFLoat {
+  float: right;
+}
